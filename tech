@@ -1,0 +1,20 @@
+complexloginapp/
+|-- cmd/
+|   |-- main.go
+|
+|-- internal/
+|   |-- handlers/
+|       |-- handler.go
+|
+|-- pkg/
+|   |-- models/
+|       |-- user.go
+|   |-- database/
+|       |-- database.go
+|
+|-- templates/
+|   |-- login.html
+|   |-- dashboard.html
+|
+|-- go.mod
+|-- go.sum
